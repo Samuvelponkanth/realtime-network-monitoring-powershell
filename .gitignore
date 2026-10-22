@@ -1,0 +1,13 @@
+# Compiled Java output & build folders
+target/
+*.class
+*.jar
+
+# IDE configuration files
+.vscode/
+.idea/
+*.iml
+
+# OS system files
+Thumbs.db
+Desktop.ini
